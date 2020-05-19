@@ -9,5 +9,5 @@ Uma das formas de executar o projeto é direto pelo prompt de comando. Seguindo 
   
   2 - Após passo 1, ainda no prompt de comando, executar o comando `ng serve --open` e aguardar até que a aplicação seja exibida em uma nova aba do browser.
   
-Obs.: Eu gravei um vídeo demonstrando a execução e teste da API, o vídeo está neste repositório, o nome do vídeo é 'Execucao_BackEnd'.
+Obs.: Eu gravei um vídeo demonstrando a execução e teste do FrontEnd, o vídeo está neste repositório, o nome do vídeo é 'Execucao_FrontEnd'.
 
